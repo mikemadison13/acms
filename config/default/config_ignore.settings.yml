@@ -1,0 +1,3 @@
+uuid: a83ddcf6-44ba-44af-8717-43b1d08badda
+ignored_config_entities:
+  - 'cohesion_*'

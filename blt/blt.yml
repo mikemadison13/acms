@@ -1,2 +1,11 @@
 project:
   machine_name: acms
+  profile:
+    name: acquia_cms
+site-studio:
+  cohesion-import: true
+  sync-import: true
+  rebuild: true
+cm:
+  core:
+    install_from_config: true

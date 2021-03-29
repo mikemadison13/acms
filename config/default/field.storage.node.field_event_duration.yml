@@ -1,0 +1,28 @@
+uuid: b1bb17f1-4c31-4839-a146-cc405abb7323
+langcode: en
+status: true
+dependencies:
+  module:
+    - acquia_cms
+    - node
+third_party_settings:
+  acquia_cms:
+    search_index: content
+    search_label: 'Event Duration'
+_core:
+  default_config_hash: asCDDXGOQYCPnjwoZV8rUoH_yXAKKvHw_h5XStOD2u4
+id: node.field_event_duration
+field_name: field_event_duration
+entity_type: node
+type: string
+settings:
+  max_length: 255
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

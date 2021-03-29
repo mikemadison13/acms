@@ -1,0 +1,15 @@
+uuid: 14868ec4-36bb-4ace-a370-a922ee2e5437
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pDnpx0W4NuoJwCeJySK3G49eGLkKnKyByNILsluWdZ0
+id: document
+label: Document
+description: 'Locally hosted documents.'
+source: file
+queue_thumbnail_downloads: false
+new_revision: true
+source_configuration:
+  source_field: field_media_file
+field_map: {  }

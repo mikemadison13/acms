@@ -1,0 +1,21 @@
+uuid: a6a076c8-91bd-4e7e-8822-07bb7156cf8d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7XCroQYx4N0bodXE6m81U08WCuUT9XwRJ1Xg-MYxuag
+id: user_administrator
+label: 'User Administrator'
+weight: -4
+is_admin: null
+permissions:
+  - 'access toolbar'
+  - 'administer CAPTCHA settings'
+  - 'administer honeypot'
+  - 'administer recaptcha'
+  - 'administer seckit'
+  - 'administer shield'
+  - 'administer site configuration'
+  - 'administer users'
+  - 'manage password reset'
+  - 'view the administration theme'

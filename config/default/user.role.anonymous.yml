@@ -1,0 +1,14 @@
+uuid: 6232fa18-5b38-4146-93ca-6584f5398f4c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KYARbYeGRZ-INq-rg4NeHiuEYecKAgslhGiPztbR-fY
+id: anonymous
+label: 'Anonymous user'
+weight: -2
+is_admin: false
+permissions:
+  - 'access content'
+  - 'use search_api_autocomplete for search'
+  - 'view media'

@@ -1,0 +1,10 @@
+uuid: 0cc9e62d-84dc-49c8-ba7d-aa07d366a084
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HeM2kgdwhQNHcKA6aMb1DjzklrW0MOjQqBwb_b6GAZo
+id: sidebar-menu
+label: 'Sidebar menu'
+description: ''
+locked: false

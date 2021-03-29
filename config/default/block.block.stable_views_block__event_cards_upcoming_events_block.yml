@@ -1,0 +1,31 @@
+uuid: 42c1bcc1-d2f4-4685-97e9-422b9ffc24f6
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.event_cards
+  module:
+    - cohesion
+    - views
+  theme:
+    - stable
+_core:
+  default_config_hash: Qxj-sXWoY-OjpWmNcQPE4nysULMQ4O_Cir1hoty6jZo
+id: stable_views_block__event_cards_upcoming_events_block
+theme: stable
+region: sidebar_first
+weight: 0
+provider: null
+plugin: 'views_block:event_cards-upcoming_events_block'
+settings:
+  id: 'views_block:event_cards-upcoming_events_block'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility:
+  cohesion_master_template:
+    id: cohesion_master_template
+    using_master_template: 0
+    negate: false

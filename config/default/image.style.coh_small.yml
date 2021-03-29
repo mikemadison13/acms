@@ -1,0 +1,17 @@
+uuid: 51c2853b-1018-42a7-a618-28ad3feebc6a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mJopXndQZObSUZpsyuzVLW91vGgsuyOrtmoOdRpG-EA
+name: coh_small
+label: 'Small (W568)'
+effects:
+  af34e6bc-007f-415b-b205-76d7b6d4e477:
+    uuid: af34e6bc-007f-415b-b205-76d7b6d4e477
+    id: image_scale
+    weight: 1
+    data:
+      width: 568
+      height: null
+      upscale: false

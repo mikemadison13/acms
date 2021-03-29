@@ -1,0 +1,22 @@
+uuid: 77232717-4f1a-4db2-9e8c-6a4dc2a6f808
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+    - node
+_core:
+  default_config_hash: ySl-HS1GUsOsNK2hDbOQMSfQmboMFlcAld82CmNkIb0
+id: node.field_article_media
+field_name: field_article_media
+entity_type: node
+type: entity_reference
+settings:
+  target_type: media
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,17 @@
+uuid: 204fc4a1-17e2-4a40-97b3-7b68791afccc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: maMic8YAwGuArff82t74oB2xBuPUkXhGoFF9o7MmyK4
+name: coh_x_large_landscape
+label: 'X Large landscape (1360x908)'
+effects:
+  e9089c93-176a-4841-8fcf-5b7e5e859ab0:
+    uuid: e9089c93-176a-4841-8fcf-5b7e5e859ab0
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1360
+      height: 908
+      anchor: center-center

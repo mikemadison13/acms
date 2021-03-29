@@ -18,7 +18,7 @@
  * file in docroot/sites/{site-name}/settings/default.includes.settings.php.
  */
 $additionalSettingsFiles = [
-  // e.g,( DRUPAL_ROOT . "/sites/settings/foo.settings.php" )
+  #DRUPAL_ROOT . "/sites/settings/site-studio.settings.php"
 ];
 
 foreach ($additionalSettingsFiles as $settingsFile) {

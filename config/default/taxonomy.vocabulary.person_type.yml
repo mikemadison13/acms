@@ -1,0 +1,10 @@
+uuid: 53155125-7069-4f46-a1cc-603240b4a5fc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VebU68CNG0mBrng12_27EVBrMz6Saj57hxKjrdCJJ1c
+name: 'Person Type'
+vid: person_type
+description: 'Descriptive metadata, for categorizing content and making search engines happy.'
+weight: 0
